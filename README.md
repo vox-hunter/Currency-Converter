@@ -55,6 +55,9 @@ python app.py
 
 Contributions to enhance the functionality or performance of the Currency Converter are welcome. Please fork the repository and submit a pull request with your updates.
 
+## Funding
+Since this is a non-profit project, funding is appreciated at [Team Seas](https://teamseas.org/)
+
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE](https://github.com/vox-hunter/Currency-Converter/blob/main/LICENSE) file for details.
