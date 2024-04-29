@@ -16,6 +16,12 @@ Before running the application, ensure you have the following installed:
 - `requests` library
 - `sv_ttk` for styling
 
+## How to get you API key:
+- Go to [ExchangeRate-API](https://www.exchangerate-api.com/)
+- Click "Get free key" button on top-right.
+- then follow the steps shown on the website to get the api key
+- after you get you api key do the following mentioned [here](#API-KEY)
+
 ## Installation
 
 Clone the repository to your local machine:
@@ -28,6 +34,9 @@ Install the required Python packages:
 - pip install requests
 - pip install sv_ttk
 
+## API KEY
+Ensure you replace `PASTE_YOUR_API_KEY_HERE` in the `api` variable inside `app.py` with your actual API key from ExchangeRate-API. Before you run the program
+
 
 ## Usage
 
@@ -38,15 +47,13 @@ To run the application, execute the following command in the terminal:
 python app.py
 
 
-Ensure you replace `PASTE_YOUR_API_KEY_HERE` in the `api` variable inside `app.py` with your actual API key from ExchangeRate-API.
-
 ## Contributing
 
 Contributions to enhance the functionality or performance of the Currency Converter are welcome. Please fork the repository and submit a pull request with your updates.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vox-hunter/Currency-Converter/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
