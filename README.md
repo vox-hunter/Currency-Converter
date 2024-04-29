@@ -41,7 +41,7 @@ Ensure you replace `PASTE_YOUR_API_KEY_HERE` in the `api` variable inside `app.p
 ## Usage
 
 Before you run the application, make sure you replace:
-api = "PASTE_YOUR_API_KEY_HERE" with your own api key
+api = "PASTE_YOUR_API_KEY_HERE" with your own api key inside the double quotes (don't remove double quotes)
 
 To run the application, execute the following command in the terminal:
 python app.py
