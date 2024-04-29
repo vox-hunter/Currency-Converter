@@ -20,7 +20,7 @@ Before running the application, ensure you have the following installed:
 
 Clone the repository to your local machine:
 
-- git clone https://your-repository-url.git
+- git clone https://github.com/vox-hunter/Currency-Converter.git
 - cd your-project-directory
 
 Install the required Python packages:
