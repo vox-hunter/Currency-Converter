@@ -59,4 +59,8 @@ This project is licensed under the Apache License - see the [LICENSE](https://gi
 
 - ExchangeRate-API for providing the currency conversion rates.
 - Tkinter library for enabling the application's GUI.
+- Thanks to Github Copilot to make coding faster
+
+# Credits
+Everything by [Vox Hunter](https://github.com/vox-hunter/)
 
