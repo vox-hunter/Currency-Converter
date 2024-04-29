@@ -9,6 +9,9 @@ This Currency Converter application allows users to convert amounts between vari
 - **User-Friendly Interface**: Simple and clean GUI that supports easy navigation and operation.
 - **Dark Theme**: Comfortable for the eyes, ideal for use in low-light environments.
 
+## Demo
+![Demo](https://github.com/vox-hunter/Currency-Converter/blob/main/Recording%202024-04-29%20194609.gif)
+
 ## Prerequisites
 Before running the application, ensure you have the following installed:
 - Python 3.6 or higher
