@@ -53,7 +53,7 @@ Contributions to enhance the functionality or performance of the Currency Conver
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/vox-hunter/Currency-Converter/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](https://github.com/vox-hunter/Currency-Converter/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
