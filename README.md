@@ -66,6 +66,7 @@ This project is licensed under the Apache License - see the [LICENSE](https://gi
 
 - ExchangeRate-API for providing the currency conversion rates.
 - Tkinter library for enabling the application's GUI.
+- The [dark theme (sun valley) package](https://github.com/rdbende/Sun-Valley-ttk-theme) is by [Benedek Dévényi](https://github.com/rdbende)
 - Thanks to Github Copilot to make coding faster
 
 # Credits
