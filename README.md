@@ -49,7 +49,7 @@ api = "PASTE_YOUR_API_KEY_HERE" with your own api key inside the double quotes (
 To run the application, execute the following command in the terminal:
 python app.py
 
-**Make sure you enter [**Three letter ISO currency code**](https://en.wikipedia.org/wiki/ISO_4217) or else it will give an error
+**Make sure you enter [**Three letter ISO currency code**](https://en.wikipedia.org/wiki/ISO_4217) or else it will give an error**
 
 ## Contributing
 
