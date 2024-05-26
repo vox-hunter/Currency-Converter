@@ -172,6 +172,7 @@ currencies = {
 }
 
 def convert(from_currency, to_currency, amount):
+    # convertion process
     url = f"https://v6.exchangerate-api.com/v6/{api}/latest/{from_currency}"
     response = requests.get(url)
     data = response.json()
@@ -182,6 +183,7 @@ def convert(from_currency, to_currency, amount):
     return f"{amount} {from_currency} is equal to {conversion} {to_currency}\nLast updated: {last_updated}"
 
 def on_convert_button_clicked():
+    # main process
     from_currency = from_currency_entry.get().upper()
     to_currency = to_currency_entry.get().upper()
     amount = amount_entry.get()
